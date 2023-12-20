@@ -1,6 +1,6 @@
 Name:		texlive-statistics
-Version:	52212
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Compute and typeset statistics tables and graphics
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/statistics
