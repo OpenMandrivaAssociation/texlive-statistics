@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Compute and typeset statistics tables and graphics
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/statistics
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/statistics
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/statistics.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/statistics.doc.r%{version}.tar.xz
